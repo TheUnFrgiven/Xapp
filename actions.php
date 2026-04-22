@@ -298,3 +298,4 @@ try {
 
 flash('Unknown action.', 'error');
 redirect('index.php');
+// 
